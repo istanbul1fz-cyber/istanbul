@@ -282,7 +282,7 @@
   },
   "design": {
     "accentColor": "#555555",
-    "logoText": "Black T-Shirt",
+    "logoText": "ISTANBUL FZ",
     "defaultLang": "en",
     "sections": {
       "hero": true,
@@ -309,7 +309,7 @@
       "Accessories"
     ],
     "productOrder": [],
-    "siteName": "Black T-Shirt"
+    "siteName": "ISTANBUL FZ"
   },
   "floatingContact": {
     "enabled": true,
