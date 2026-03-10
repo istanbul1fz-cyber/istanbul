@@ -198,9 +198,10 @@
   "floatingContact": {
     "enabled": true,
     "buttonType": "whatsapp",
-    "phoneNumber": "+212679460301",
+    "phoneNumber": "+212655628827",
     "position": "right",
-    "defaultMessage": "Hi Black T-Shirt, I'd like to order a T-shirt."
+    "defaultMessage": "مرحبا بك اسطنبول إسأل عن ما شئت",
+    "instagramUrl": ""
   },
   "sizes": [
     {
