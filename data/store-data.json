@@ -861,8 +861,8 @@
       "title": "Built in Ouarzazate. Worn everywhere.",
       "subtitle": "Black T-Shirt is a Moroccan streetwear brand focused on one essential piece: the perfect black tee.",
       "storyTitle": "Our story",
-      "storyP1": "Black T-Shirt was born in Ouarzazate, Morocco — a city known for its film sets, light and energy. We wanted to create something just as iconic: a simple, powerful black T-shirt that fits perfectly into modern Moroccan life.",
-      "storyP2": "Instead of chasing every trend, we focus on one product and make it right. Clean lines, premium fabric and a fit that works on the streets, in class, at work or on a night out.",
+      "storyP1": "نحن علامة تجارية مغربية متخصصة في بيع الملابس الراقية، من قلب ورزازات — المدينة التي تجمع بين أصالة التراث وجمال الطبيعة الخلابة. انطلقنا من رؤية واضحة: أن يجد كل مغربي ملابس تعكس ذوقه الرفيع وتليق بشخصيته، بجودة لا تُجامَل وأسعار في متناول الجميع. نؤمن أن الأناقة ليست رفاهية، بل أسلوب حياة. لذلك نحرص في كل قطعة نقدمها على الجمع بين التصميم العصري والجودة العالية، لنمنحك إطلالة تليق بك في كل مناسبة. لماذا نحن؟ ملابس مختارة بعناية فائقة تناسب الذوق المغربي جودة عالية بأسعار منافسة خدمة عملاء تضع رضاك فوق كل اعتبار شحن سريع وموثوق إلى مختلف مناطق المملكة نفخر بانتمائنا إلى هذا الوطن، ونسعى كل يوم لأن نكون العلامة التجارية التي يثق بها المغربي أولاً. أهلاً بك في عالمنا — حيث الأناقة تبدأ من هنا.",
+      "storyP2": "مرحبا بكم في موقعنا 👋 حنا مشروع مغربي كيهتم ببيع الملابس العصرية بجودة مزيانة وثمن مناسب للجميع. الفكرة ديال الموقع جات باش نسهلّو على الناس فـ ورزازات وباقي المدن المغربية يشريو لباس زوين بطريقة سهلة وآمنة عبر الإنترنت. كنحرصو نختارو الملابس بعناية باش تكون مواكبة للموضة وفي نفس الوقت مريحة وعملية للاستعمال اليومي. الهدف ديالنا هو نقدموا لزبنائنا تجربة شراء مريحة، مع خدمة زبناء محترمة وتوصيل سريع. الثقة ديالكم هي رأس مالنا، وكنخدمو ديما باش نكونو عند حسن ظنكم ونقدموا الأفضل. شكراً لاختياركم لنا 🤍",
       "valuesTitle": "What we stand for",
       "values": [
         {
@@ -886,9 +886,9 @@
       "businessType": "Clothing brand focused on premium black T-shirts.",
       "priceInfo": "Flat price of 200 MAD per item.",
       "deliveryInfo": "Nationwide delivery across Morocco.",
-      "mapLat": 30.9198,
-      "mapLng": -6.8926,
-      "mapZoom": 14
+      "mapLat": "30.9198",
+      "mapLng": "-6.8926",
+      "mapZoom": "14"
     },
     "contact": {
       "eyebrow": "Contact",
