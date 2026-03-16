@@ -891,16 +891,16 @@
       "mapZoom": "14"
     },
     "contact": {
-      "eyebrow": "Contact",
-      "title": "Let's make your next favorite tee.",
-      "subtitle": "Reach out to order, ask about sizing, or talk collaborations.",
-      "talkTitle": "Talk to us directly",
-      "talkText": "For the fastest response, send us a WhatsApp message with your name, city and how many T-shirts you want.",
-      "phone": "+212 679 460 301",
-      "email": "black12tshirt@gmail.com",
+      "eyebrow": " welcome to your store",
+      "title": "Hello",
+      "subtitle": "تواصل معنا للطلب، أو للاستفسار عن المقاسات، أو للتحدث عن التعاون",
+      "talkTitle": "تحدث إلينا مباشرة ",
+      "talkText": "للحصول على أسرع رد، أرسل لنا رسالة واتساب باسمك ومدينتك وعدد التيشيرتات التي تريدها",
+      "phone": "+212655628827",
+      "email": "istanbul1fz@gmail.com",
       "location": "Ouarzazate, Morocco",
-      "businessType": "Clothing / T-shirts",
-      "priceInfo": "200 MAD per item · Nationwide delivery",
+      "businessType": "class / T-shirts",
+      "priceInfo": "free",
       "whatsappMessage": "Hi Black T-Shirt, I want to order a T-shirt."
     }
   },
