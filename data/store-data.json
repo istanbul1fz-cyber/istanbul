@@ -37,10 +37,10 @@
     },
     {
       "id": "oversized",
-      "name": "Black Tee / Oversized",
+      "name": "قميجة تركيا",
       "nameAr": "تيشيرت أسود / أوفرسايز",
-      "regularPrice": 1500,
-      "discountPrice": 799,
+      "regularPrice": 220,
+      "discountPrice": 160,
       "category": "Hoodies",
       "description": "",
       "descriptionAr": "قصة مريحة مع أكتاف منخفضة. مثالي للمظهر الجريء.",
@@ -54,16 +54,16 @@
         }
       ],
       "sizes": [
+        "m",
         "l",
         "xl",
-        "2xl",
-        "3xl"
+        "2xl"
       ],
       "inventory": {
+        "أسود|m": 0,
         "أسود|l": 0,
         "أسود|xl": 0,
-        "أسود|2xl": 0,
-        "أسود|3xl": 0
+        "أسود|2xl": 0
       },
       "visible": true,
       "meta": [
