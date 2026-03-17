@@ -307,10 +307,10 @@
     },
     {
       "id": "p-1773114539267",
-      "name": "TIST",
+      "name": "سروال كلاص",
       "nameAr": "TIST",
-      "regularPrice": 250,
-      "discountPrice": 199,
+      "regularPrice": 190,
+      "discountPrice": 135,
       "category": "T-Shirts",
       "description": "",
       "descriptionAr": "",
@@ -324,12 +324,14 @@
         }
       ],
       "sizes": [
+        "m",
         "l",
         "xl",
         "2xl",
         "3xl"
       ],
       "inventory": {
+        "الرمادي|m": 0,
         "الرمادي|l": 0,
         "الرمادي|xl": 0,
         "الرمادي|2xl": 0,
