@@ -206,10 +206,10 @@
     },
     {
       "id": "p-1773112685223",
-      "name": "TIST",
+      "name": "قميجة كشمير تركيا",
       "nameAr": "TIST",
-      "regularPrice": 1600,
-      "discountPrice": 799,
+      "regularPrice": 220,
+      "discountPrice": 160,
       "category": "Hoodies",
       "description": "",
       "descriptionAr": "",
@@ -223,12 +223,14 @@
         }
       ],
       "sizes": [
+        "m",
         "l",
         "xl",
         "2xl",
         "3xl"
       ],
       "inventory": {
+        "بوني|m": 0,
         "بوني|l": 0,
         "بوني|xl": 0,
         "بوني|2xl": 0,
