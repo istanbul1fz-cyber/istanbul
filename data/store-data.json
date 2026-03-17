@@ -572,10 +572,10 @@
     },
     {
       "id": "p-1773675011780",
-      "name": "TIST",
+      "name": "دجين تركيا",
       "nameAr": "TIST",
-      "regularPrice": 199,
-      "discountPrice": 150,
+      "regularPrice": 270,
+      "discountPrice": 190,
       "category": "Hoodies",
       "description": "",
       "descriptionAr": "",
@@ -589,12 +589,14 @@
         }
       ],
       "sizes": [
+        "m",
         "l",
         "xl",
         "2xl",
         "3xl"
       ],
       "inventory": {
+        "أزرق|m": 0,
         "أزرق|l": 0,
         "أزرق|xl": 0,
         "أزرق|2xl": 0,
